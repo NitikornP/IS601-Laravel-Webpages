@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4c7053b-5ae4-4a89-a110-ad2dc1b903ed" name="Default Changelist" comment="Add jumbotron.css file">
-      <change afterPath="$PROJECT_DIR$/public/css/carousel.css" afterDir="false" />
+    <list default="true" id="a4c7053b-5ae4-4a89-a110-ad2dc1b903ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1552853492417</updated>
       <workItem from="1552853495606" duration="8512000" />
-      <workItem from="1552931456832" duration="27587000" />
+      <workItem from="1552931456832" duration="27830000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel setup">
       <created>1552868709936</created>
@@ -394,11 +392,18 @@
       <option name="project" value="LOCAL" />
       <updated>1553048226714</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adding carousel.css file">
+      <created>1553048344990</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1553048344990</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36099000" />
+    <option name="totallyTimeSpent" value="36342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="889" extended-state="6" />
@@ -449,7 +454,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Laravel setup" />
     <MESSAGE value="Adding footer" />
     <MESSAGE value="Adding jsfooter" />
     <MESSAGE value="Adding jumbotron.css file" />
@@ -462,7 +466,9 @@
     <MESSAGE value="Adding content to homepage" />
     <MESSAGE value="Editing welcome page" />
     <MESSAGE value="Adding link for contact page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding link for contact page" />
+    <MESSAGE value="Adding carousel.css file" />
+    <MESSAGE value="Laravel setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Laravel setup" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Procfile">
