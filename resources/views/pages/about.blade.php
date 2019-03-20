@@ -22,7 +22,7 @@
                         including 14th-century Wat Chedi Luang. The sacred, gilded Doi Suthep Temple overlooks the city
                         from nearby Mt. Suthep.</p>
                     <hr>
-                    <img src="images/northern.jpg" alt="history" width="700" height="500">
+                    <img src="images/northern2.jpg" alt="history" width="700" height="500">
                     <hr>
                     <h2 class="blog-post-title">Northeastern Region (Isaan)</h2>
                     <p>Isan consists of 20 provinces in the northeastern region of Thailand. Isan is Thailand's largest
@@ -30,7 +30,7 @@
                         bordered by the Mekong River to the north and east, by Cambodia to the southeast and the
                         Sankamphaeng Range south of Nakhon Ratchasima. </p>
                     <hr>
-                    <img src="images/isaan.jpg" alt="history" width="700" height="500">
+                    <img src="images/isaan2.JPG" alt="history" width="700" height="500">
                     <hr>
                     <h2 class="blog-post-title">Central Region</h2>
                     <p>Central Thailand is a region of Thailand, covering the broad alluvial plain of the Chao Phraya
@@ -38,7 +38,7 @@
                         Thailand by the Phetchabun mountain range. The Tenasserim Hills separate it from Myanmar to the
                         west.</p>
                     <hr>
-                    <img src="images/central.jpg" alt="history" width="700" height="500">
+                    <img src="images/central2.jpg" alt="history" width="700" height="500">
                     <hr>
                     <h2 class="blog-post-title">Southern Region</h2>
                     <p>Southern Thailand is a southernmost cultural region of Thailand, separated from Central Thailand
